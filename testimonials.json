@@ -2,7 +2,7 @@
   {
     "user": "Rishab Jain",
     "user_title": "Youtuber",
-    "user_avatar": "/assets/images/testimonials/rjain.jpg",
+    "user_avatar": "https://cdn.prank.gg/images/testimonials/rjain.jpg",
     "user_url": "https://youtube.com/c/RishabJain",
     "testimonial": "It's a funny trick to play with your friends!",
     "source": "https://youtu.be/eTqEHIfktU8"
@@ -10,7 +10,7 @@
   {
     "user": "Viprah",
     "user_title": "1000 star non, Youtuber",
-    "user_avatar": "/assets/images/testimonials/viprah.jpg",
+    "user_avatar": "https://cdn.prank.gg/images/testimonials/viprah.jpg",
     "user_url": "https://youtube.com/c/viprah",
     "testimonial": "yo?? for real ? wait it doesnt work...",
     "source": "https://youtu.be/9VhNrEZTxrg?t=9"
